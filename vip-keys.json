@@ -22,10 +22,10 @@
     "key": "CRYSTAL-H66U-ZDEH",
     "plano": "pro",
     "usuario": "gsfsfs",
-    "usado": false,
+    "usado": true,
     "data": "13/06/2026",
-    "ip": null,
-    "ativadoEm": null,
-    "expiraEm": null
+    "ip": "179.191.222.245",
+    "ativadoEm": "13/06/2026, 16:59:11",
+    "expiraEm": "2026-07-13T19:59:11.229Z"
   }
 ]
