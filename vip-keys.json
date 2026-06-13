@@ -3,9 +3,9 @@
     "key": "CRYSTAL-3I0U-L47X",
     "plano": "pro",
     "usuario": "joaopedro",
-    "usado": false,
+    "usado": true,
     "data": "13/06/2026",
-    "ip": null,
-    "ativadoEm": null
+    "ip": "179.191.222.245",
+    "ativadoEm": "13/06/2026, 15:24:16"
   }
 ]
