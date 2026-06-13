@@ -7,5 +7,14 @@
     "data": "13/06/2026",
     "ip": "179.191.222.245",
     "ativadoEm": "13/06/2026, 15:28:59"
+  },
+  {
+    "key": "CRYSTAL-RXLM-CV1B",
+    "plano": "crystal",
+    "usuario": "kaio",
+    "usado": false,
+    "data": "13/06/2026",
+    "ip": null,
+    "ativadoEm": null
   }
 ]
