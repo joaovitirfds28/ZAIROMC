@@ -17,5 +17,15 @@
     "ip": "179.191.222.245",
     "ativadoEm": "13/06/2026, 16:45:36",
     "expiraEm": "2026-07-13T19:45:36.447Z"
+  },
+  {
+    "key": "CRYSTAL-ZXXQ-EDZE",
+    "plano": "pro",
+    "usuario": "luan",
+    "usado": false,
+    "data": "13/06/2026",
+    "ip": null,
+    "ativadoEm": null,
+    "expiraEm": null
   }
 ]
