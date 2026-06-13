@@ -12,10 +12,10 @@
     "key": "CRYSTAL-1CAF-DQIW",
     "plano": "pro",
     "usuario": "kaio",
-    "usado": true,
+    "usado": false,
     "data": "13/06/2026",
-    "ip": "179.191.222.245",
-    "ativadoEm": "13/06/2026, 16:04:43",
-    "expiraEm": "2026-07-13T19:04:43.817Z"
+    "ip": null,
+    "ativadoEm": null,
+    "expiraEm": null
   }
 ]
